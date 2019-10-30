@@ -1,0 +1,25 @@
+  
+#######################################
+# Syntax Coloring Map For 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AN_SIM	KEYWORD1	
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+http_client_get	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RESP_BUFFER_SIZE	LITERAL1
+queryParamKeys	LITERAL1	
